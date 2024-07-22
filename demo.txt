@@ -1,5 +1,1 @@
-demo1
-demo2
 dog
-cat
-cat1
